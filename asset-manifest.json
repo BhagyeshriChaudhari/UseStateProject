@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UseStateProject/static/css/main.18c9bdb0.css",
+    "main.js": "/UseStateProject/static/js/main.422b040f.js",
+    "static/js/787.e87a2b92.chunk.js": "/UseStateProject/static/js/787.e87a2b92.chunk.js",
+    "index.html": "/UseStateProject/index.html",
+    "main.18c9bdb0.css.map": "/UseStateProject/static/css/main.18c9bdb0.css.map",
+    "main.422b040f.js.map": "/UseStateProject/static/js/main.422b040f.js.map",
+    "787.e87a2b92.chunk.js.map": "/UseStateProject/static/js/787.e87a2b92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c9bdb0.css",
+    "static/js/main.422b040f.js"
+  ]
+}
